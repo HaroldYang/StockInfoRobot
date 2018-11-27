@@ -1,5 +1,4 @@
-# 
-#Copyright [2018] [Harold Yang]  StockInfoRobot
+# #Copyright [2018] [Harold Yang]  StockInfoRobot
 #
 #Licensed under the Apache License, Version 2.0 (the "License");
 #you may not use this file except in compliance with the License.
